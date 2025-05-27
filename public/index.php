@@ -19,4 +19,4 @@ $app = require_once __DIR__.'/../bootstrap/app.php';
 
 //$app->handleRequest(Request::capture());
 ?>
-<a>aaa</a>
+<a>どうしてだよぉぉぉぉお(cv.藤原達也)</a>
